@@ -1,6 +1,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/isabelanavarro/robotica)
 ![GitHub](https://img.shields.io/github/license/isabelanavarro/robotica)
 ![Twitter Follow](https://img.shields.io/twitter/follow/isabelanavarro0?style=social)
+![GitHub followers](https://img.shields.io/github/followers/isabelanavarro?style=social)
 
 # Linguagem C
 Projeto do site
